@@ -1,0 +1,20 @@
+@media(max-width: 576px){
+  #first{
+    padding-left: 4%;
+  }
+
+  #subject{
+    padding-left: 4%;
+    padding-right: 2%;
+  }
+
+  #opinion{
+    padding-left: 4%;
+    padding-right: 2%;
+  }
+}
+
+
+#btn:hover{
+    background-color: rgb(102, 68, 224);
+}
